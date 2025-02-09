@@ -1,4 +1,4 @@
-Overview
+# Overview
 
 This project is for self-learning as non-technical product manager to understand  different recommendation system approaches for movies/series recommendation, aiming to enhance user experience and engagement on streaming platforms. By understanding these models, a product manager can make informed decisions about recommendation strategies that balance technical feasibility with business goals.
 
